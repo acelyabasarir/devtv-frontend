@@ -67,6 +67,10 @@ Proje modüler bir klasör yapısına sahiptir:
 
 Bu yapı, sistemin büyütülmesini ve yeni modüllerin eklenmesini kolaylaştırır.
 
+Developer
+
+Açelya Başarır  
+Software Developer  
 ---
 
 ## Kurulum
